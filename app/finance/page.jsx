@@ -17,7 +17,7 @@ const styles = {
 };
 
 export default function FinancePage() {
-  // Use env var if set, otherwise fall back to your live publishable key (safe to expose; it's public)
+  // Prefer env var; fallback to your live pk (publishable key is safe to expose on the client)
   const pk =
     process.env.NEXT_PUBLIC_STRIPE_PUBLISHABLE_KEY ||
     "pk_live_51RvHeBLp6vu4avRkWpQl0vOMhJZFqlhfl9VuSM0MTaoIvGvyXqbniYho2FH25RB7ycqJIXxxbVG3TfgJarbVO9Px00YLHy77wc";
@@ -30,13 +30,13 @@ export default function FinancePage() {
       {/* Load Stripe’s Buy Button script */}
       <Script async src="https://js.stripe.com/v3/buy-button.js" strategy="afterInteractive" />
 
-      {/* Your Stripe Buy Button */}
+      {/* Embedded Stripe Buy Button */}
       <stripe-buy-button
         buy-button-id="buy_btn_1RzGR5Lp6vu4avRk8vL51iVp"
         publishable-key={pk}
       ></stripe-buy-button>
 
-      {/* Fallback direct link (opens the same hosted checkout) */}
+      {/* Fallback direct link */}
       <div style={styles.fallback}>
         <a
           href="https://buy.stripe.com/28EbJ2ero0ul0gdc6w5J600"
