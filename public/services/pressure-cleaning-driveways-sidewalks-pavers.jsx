@@ -1,36 +1,50 @@
-const CHECKOUT_URL = "https://buy.stripe.com/28EbJ2ero0ul0gdc6w5J600";
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <meta name="description" content="Professional pressure cleaning for driveways, sidewalks, and pavers in Broward County. Enhance safety and curb appeal today." />
-  <title>Pressure Cleaning for Driveways, Sidewalks & Pavers | G-Force Exterior Cleaning</title>
-  <link rel="stylesheet" href="/globals.css" />
+<meta charset="utf-8">
+<title>Driveway, Sidewalk & Paver Cleaning | G-Force Exterior Cleaning</title>
+<meta name="description" content="Professional pressure cleaning for driveways, sidewalks, and pavers in Broward County. Restore curb appeal and protect surfaces with optional paver sealing.">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="canonical" href="/services/pressure-cleaning-driveways-sidewalks-pavers.html">
+<style>
+  body{font-family:system-ui,-apple-system,Segoe UI,Roboto,Arial,sans-serif;max-width:900px;margin:0 auto;padding:24px;color:#0f172a;line-height:1.6}
+  a{color:#0f172a;text-decoration:underline}
+  img{max-width:100%;border-radius:8px;margin:12px 0}
+  .cta-btn{display:inline-block;background:#2563eb;color:#fff;padding:12px 20px;border-radius:6px;text-decoration:none;margin:20px 0}
+  .cta-btn:hover{background:#1e40af}
+</style>
 </head>
-<body style="font-family: system-ui, Arial, sans-serif; margin: 0; padding: 0;">
-  <header style="background:#0f172a; color:#fff; padding:20px;">
-    <h1 style="margin:0;">Pressure Cleaning – Driveways, Sidewalks & Pavers</h1>
-  </header>
-  <main style="max-width:900px;margin:20px auto;padding:20px;">
-    <p>Your driveway and walkways are the first thing people see. Our expert <strong>pressure cleaning</strong> removes stains, algae, and slippery grime from:</p>
+<body>
 
-    <ul>
-      <li>Concrete driveways</li>
-      <li>Sidewalks and walkways</li>
-      <li>Paver patios and pool decks</li>
-    </ul>
+<nav aria-label="Breadcrumb" style="font-size:.9rem; margin:10px 0;">
+  <a href="/">Home</a> › <a href="/#services">Services</a> › <span>Driveway, Sidewalk & Paver Cleaning</span>
+</nav>
 
-    <p>Ask us about <strong>paver sealing</strong> to protect your investment and keep surfaces looking new.</p>
-  </main>
-   ...
-    <!-- Klarna CTA -->
-   <a href="/finance" style={ctaBtn}>
-  Finance this Project with Klarna
-</a>
-...
-  <footer style="background:#222;color:#fff;padding:20px;text-align:center;">
-    <p>&copy; 2025 G-Force Exterior Cleaning Services</p>
-  </footer>
+<h1>Driveway, Sidewalk & Paver Cleaning in Broward County</h1>
+<p>
+Boost your home’s curb appeal with our expert <strong>driveway, sidewalk, and paver pressure cleaning</strong>.
+We remove built-up dirt, oil, and stains using high-powered equipment and eco-friendly detergents.
+</p>
+
+<img src="/images/paver-cleaning.jpg" alt="Driveway and paver pressure cleaning Broward County" loading="lazy">
+<p style="text-align:center;font-style:italic;">Before & After: Paver Cleaning in Broward County</p>
+
+<p>
+Optional <strong>paver sealing</strong> helps protect against future staining and keeps surfaces looking fresh for longer.
+Perfect for homeowners and HOAs looking for lasting results.
+</p>
+
+<a href="https://buy.stripe.com/28EbJ2ero0ul0gdc6w5J600" class="cta-btn">💳 Finance This Project with Klarna</a>
+
+<h2>Related Services</h2>
+<ul>
+  <li><a href="/services/soft-wash-roof-cleaning.html">Soft Wash Roof Cleaning</a></li>
+  <li><a href="/services/house-and-building-wash.html">House & Building Wash</a></li>
+  <li><a href="/services/hoa-and-commercial-schedules.html">HOA & Commercial Schedules</a></li>
+  <li><a href="/gallery.html">Before & After Gallery</a></li>
+</ul>
+
+<p>Serving Coral Springs, Parkland, Fort Lauderdale, and all of Broward County. <a href="/#contact">Request a free quote today</a>.</p>
+
 </body>
 </html>
