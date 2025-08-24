@@ -1,5 +1,3 @@
-"use client";
-
 export const metadata = {
   title: "G-Force Exterior Cleaning | Broward County Pressure Cleaning",
   description:
