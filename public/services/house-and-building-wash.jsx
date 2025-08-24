@@ -1,38 +1,50 @@
-const CHECKOUT_URL = "https://buy.stripe.com/28EbJ2ero0ul0gdc6w5J600";
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <meta name="description" content="Professional house and building washing services for homes, apartments, and commercial properties across Broward County." />
-  <title>House & Building Wash | G-Force Exterior Cleaning</title>
-  <link rel="stylesheet" href="/globals.css" />
+<meta charset="utf-8">
+<title>House & Building Wash | G-Force Exterior Cleaning</title>
+<meta name="description" content="Professional exterior washing for houses and buildings in Broward County. Remove dirt, algae, and grime while protecting your property’s paint and siding.">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="canonical" href="/services/house-and-building-wash.html">
+<style>
+  body{font-family:system-ui,-apple-system,Segoe UI,Roboto,Arial,sans-serif;max-width:900px;margin:0 auto;padding:24px;color:#0f172a;line-height:1.6}
+  a{color:#0f172a;text-decoration:underline}
+  img{max-width:100%;border-radius:8px;margin:12px 0}
+  .cta-btn{display:inline-block;background:#2563eb;color:#fff;padding:12px 20px;border-radius:6px;text-decoration:none;margin:20px 0}
+  .cta-btn:hover{background:#1e40af}
+</style>
 </head>
-<body style="font-family: system-ui, Arial, sans-serif; margin: 0; padding: 0;">
-  <header style="background:#0f172a; color:#fff; padding:20px;">
-    <h1 style="margin:0;">House & Building Wash</h1>
-  </header>
-  <main style="max-width:900px;margin:20px auto;padding:20px;">
-    <p><strong>First impressions matter!</strong> Our house and building washing service removes dirt, mold, mildew, and algae, restoring your property’s original beauty.</p>
+<body>
 
-    <h2>Safe & Effective Process</h2>
-    <ul>
-      <li>Gentle soft-wash for delicate siding and stucco</li>
-      <li>Removes stains caused by Florida’s humid climate</li>
-      <li>Ideal for HOAs, apartment complexes, and businesses</li>
-    </ul>
+<nav aria-label="Breadcrumb" style="font-size:.9rem; margin:10px 0;">
+  <a href="/">Home</a> › <a href="/#services">Services</a> › <span>House & Building Wash</span>
+</nav>
 
-    <p>Give your property the facelift it deserves with G-Force’s expert cleaning solutions.</p>
-    <p><a href="/finance" style="color:#0074de; text-decoration:underline;">Ask us about financing options</a>.</p>
-  </main>
-      ...
-    <!-- Klarna CTA -->
- <a href="/finance" style={ctaBtn}>
-  Finance this Project with Klarna
-</a>
-...
-  <footer style="background:#222;color:#fff;padding:20px;text-align:center;">
-    <p>&copy; 2025 G-Force Exterior Cleaning Services</p>
-  </footer>
+<h1>House & Building Wash in Broward County</h1>
+<p>
+Protect your investment with professional <strong>house and building washing</strong> by G-Force Exterior Cleaning.
+We remove dirt, mold, and algae from siding, stucco, and brick using soft wash techniques that prevent surface damage.
+</p>
+
+<img src="/images/house-wash.jpg" alt="House and building exterior wash Broward County" loading="lazy">
+<p style="text-align:center;font-style:italic;">Before & After: House Washing in Broward County</p>
+
+<p>
+Our exterior washing services are perfect for homeowners, HOAs, and businesses looking to keep properties pristine year-round.
+Safe for all surfaces, including painted siding, stucco, and wood.
+</p>
+
+<a href="https://buy.stripe.com/28EbJ2ero0ul0gdc6w5J600" class="cta-btn">💳 Finance This Project with Klarna</a>
+
+<h2>Related Services</h2>
+<ul>
+  <li><a href="/services/soft-wash-roof-cleaning.html">Soft Wash Roof Cleaning</a></li>
+  <li><a href="/services/pressure-cleaning-driveways-sidewalks-pavers.html">Driveway, Sidewalk & Paver Cleaning</a></li>
+  <li><a href="/services/hoa-and-commercial-schedules.html">HOA & Commercial Schedules</a></li>
+  <li><a href="/gallery.html">Before & After Gallery</a></li>
+</ul>
+
+<p>Serving Coral Springs, Parkland, Fort Lauderdale, and all of Broward County. <a href="/#contact">Request a free quote today</a>.</p>
+
 </body>
 </html>
