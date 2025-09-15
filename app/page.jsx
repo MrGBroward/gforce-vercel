@@ -46,7 +46,7 @@ export default function Page() {
         <div style={{ ...container, display: "flex", alignItems: "center", gap: 16 }}>
           <img
             src="/images/logo.png"
-            alt="G-Force Exterior Cleaning"
+            alt="G-Force Power Washing of Florida Inc."
             style={{ height: 54, width: "auto" }}
           />
           <nav style={{ marginLeft: "auto", display: "flex", gap: 16, alignItems: "center" }}>
