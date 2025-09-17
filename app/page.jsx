@@ -283,7 +283,7 @@ export default function Page() {
             </a>
           </div>
           <div style={{ opacity: 0.7 }}>
-            © {new Date().getFullYear()} G-Force Exterior Cleaning Services — Broward County, FL
+            © {new Date().getFullYear()} G-Force Power Washing of Florida Inc. — Broward County, FL
           </div>
         </div>
       </footer>
