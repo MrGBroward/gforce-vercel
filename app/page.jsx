@@ -68,7 +68,7 @@ export default function Page() {
         <div style={{ ...container, textAlign: "center" }}>
           <h1 style={h1}>Broward County Pressure Cleaning</h1>
           <p style={{ ...p, color: colors.lightText, margin: "12px auto 0", maxWidth: 900 }}>
-            G-Force Exterior Cleaning Services helps South Florida properties look their best while
+            G-Force Power Washing of Florida Inc. helps South Florida properties look their best while
             protecting roofs, paint, and landscaping. We schedule around your needs—early mornings,
             weekends, or off-peak hours—and we offer financing and flexible pricing, especially for
             long-term and multi-site contracts. Expect clear communication, photo documentation, and
@@ -130,7 +130,7 @@ export default function Page() {
         <div style={{ ...container, textAlign: "center" }}>
           <h2 style={h2}>Before &amp; After Gallery</h2>
           <p style={{ ...p, maxWidth: 700, margin: "10px auto 24px" }}>
-            See how G-Force Exterior Cleaning transforms South Florida properties with expert
+            See how G-Force Power Washing transforms South Florida properties with expert
             pressure cleaning and soft-wash services.
           </p>
           <div
