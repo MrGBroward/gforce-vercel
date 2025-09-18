@@ -1,7 +1,7 @@
 import "./globals.css";
 
 export const metadata = {
-  title: "G-Force Exterior Cleaning — Broward Pressure Cleaning",
+  title: "G-Force Power Washing of Florida Inc. — Broward Pressure Cleaning",
   description:
     "Veteran-owned pressure cleaning and soft-wash services across Broward County. Driveways, sidewalks, pavers, roofs, dumpster pads, and commercial schedules."
 };
