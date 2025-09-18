@@ -5,7 +5,7 @@ const CHECKOUT_URL = "https://buy.stripe.com/28EbJ2ero0ul0gdc6w5J600";
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <meta name="description" content="Industrial-grade cleaning for heavy equipment, machinery, and dumpster pads. Serving Broward County and surrounding areas." />
-  <title>Heavy Equipment & Dumpster Pad Cleaning | G-Force Exterior Cleaning</title>
+  <title>Heavy Equipment & Dumpster Pad Cleaning | G-Force Power Washing of Florida Inc.</title>
   <link rel="stylesheet" href="/globals.css" />
 </head>
 <body style="font-family: system-ui, Arial, sans-serif; margin: 0; padding: 0;">
@@ -32,7 +32,7 @@ const CHECKOUT_URL = "https://buy.stripe.com/28EbJ2ero0ul0gdc6w5J600";
     </div>
 ...
   <footer style="background:#222;color:#fff;padding:20px;text-align:center;">
-    <p>&copy; 2025 G-Force Exterior Cleaning Services</p>
+    <p>&copy; 2025 G-Force Power Washing of Florida Inc.</p>
   </footer>
 </body>
 </html>
